@@ -6,5 +6,5 @@ The main job of this algorithm is to be to get the inverse,increased contrast,de
 of a gray scale image, thus this algorithm can be simply decomposed into 5 main js functions.
 
 ### Skills needed
--js
--Basic mathematics(linear polynomial functions)
+- js
+- Basic mathematics(linear polynomial functions)
